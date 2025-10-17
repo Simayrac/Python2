@@ -40,7 +40,7 @@ projet python/
 - `creer_fichier(liste, fichier, mode, ...)` : exporte le résultat filtré dans un nouveau CSV.
 
 ## Auteur
-À compléter dans le fichier source.
+Simon Rousselot
 
 ## Prérequis
 - Python 3.x
