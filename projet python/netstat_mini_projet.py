@@ -1,6 +1,5 @@
 # =====================================================================
 # Mini-projet Python : netstat -a
-# Auteur : (à compléter)
 # Fichier : netstat_mini_projet.py
 # =====================================================================
 
@@ -166,7 +165,7 @@ def creer_fichier(liste: List[List[str]], fichier: str, mode: str, *args) -> Tup
 # ---------------------------------------------------------------------
 
 if __name__ == "__main__":
-    chemin_csv = "netstat_a.csv"  # à placer dans le même dossier que ce script
+    chemin_csv = "netstat_a.csv" 
     listeGlobale = lire_fichier_csv(chemin_csv)
     print("\nEn-tête :", listeGlobale[0])
     print("Aperçu des 5 premières lignes :")
