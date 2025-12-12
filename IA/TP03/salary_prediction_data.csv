@@ -1,0 +1,51 @@
+Experience_Years,Education_Level,City,Age,Gender,Management_Training,Salary_USD
+3,Bachelor's,New York,25,Female,No,62000
+15,Master's,Remote,40,Male,Yes,135000
+8,Bachelor's,London,31,Male,No,88500
+22,PhD,Paris,55,Female,Yes,195000
+1,Bachelor's,Rural,22,Male,No,45000
+11,Master's,New York,35,Female,No,115000
+5,Bachelor's,London,28,Male,No,74000
+20,PhD,Remote,48,Female,Yes,165000
+18,Master's,Paris,45,Male,Yes,155000
+6,Bachelor's,Rural,30,Female,No,58000
+14,Master's,London,38,Male,No,125000
+2,Bachelor's,New York,24,Female,No,58000
+9,Master's,Remote,33,Male,No,95000
+25,PhD,Paris,58,Male,Yes,210000
+16,Master's,Rural,42,Female,Yes,140000
+4,Bachelor's,London,27,Male,No,68000
+13,Master's,New York,37,Female,No,120000
+7,Bachelor's,Remote,30,Male,No,78000
+21,PhD,Paris,52,Female,Yes,175000
+10,Master's,Rural,35,Male,No,98000
+17,PhD,London,43,Female,Yes,158000
+0,Bachelor's,New York,21,Male,No,40000
+12,Master's,Remote,36,Female,No,105000
+28,PhD,Paris,62,Male,Yes,220000
+19,Master's,London,46,Female,Yes,150000
+3,Bachelor's,Rural,26,Male,No,52000
+15,Master's,New York,39,Female,Yes,145000
+8,Bachelor's,Remote,32,Male,No,85000
+23,PhD,London,56,Female,Yes,200000
+1,Bachelor's,Paris,23,Male,No,48000
+11,Master's,Rural,34,Female,No,100000
+5,Bachelor's,New York,29,Male,No,70000
+20,Master's,Remote,47,Female,Yes,160000
+16,PhD,Paris,42,Male,Yes,165000
+6,Bachelor's,London,30,Female,No,72000
+2,Bachelor's,Remote,25,Male,No,50000
+14,Master's,Rural,38,Female,No,110000
+9,Master's,New York,34,Male,No,108000
+26,PhD,London,59,Female,Yes,215000
+17,Master's,Paris,44,Male,Yes,152000
+4,Bachelor's,Rural,27,Female,No,55000
+13,Master's,Remote,37,Male,No,118000
+7,Bachelor's,New York,31,Female,No,80000
+22,PhD,London,53,Male,Yes,185000
+10,Master's,Paris,36,Female,No,90000
+18,PhD,Rural,45,Male,Yes,155000
+2,Bachelor's,London,24,Female,No,60000
+12,Master's,New York,36,Male,No,112000
+24,PhD,Remote,57,Female,Yes,205000
+5,Master's,Paris,28,Male,No,75000
